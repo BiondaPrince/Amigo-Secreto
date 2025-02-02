@@ -35,7 +35,7 @@ Al hacer clic en el botón "Sortear Amigo", se seleccionará aleatoriamente un n
 ## Instalación
 1. Clona este repositorio:
    ```sh
-   git clone https://github.com/tuusuario/amigo-secreto.git
+   https://github.com/BiondaPrince/Amigo-Secreto.git
    ```
 2. Abre el archivo `index.html` en tu navegador.
 
